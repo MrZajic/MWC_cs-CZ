@@ -3,7 +3,7 @@
 - https://github.com/potatosalad775/MWC_Localization_Core
 - Některé překlady vycházejí ze staré češtiny z MSC: https://www.nexusmods.com/mysummercar/mods/1384
 
-# Requirements
+# Co budeš potřebovat
 Plugin využívá `BepInEx` verze `>5.x`, bez kterého to nebude fungovat!
 
 ## Instalace
