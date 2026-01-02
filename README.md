@@ -1,6 +1,7 @@
 # Author pluginu
 - https://www.nexusmods.com/mywintercar/mods/197
 - https://github.com/potatosalad775/MWC_Localization_Core
+- Některé překlady vycházejí ze staré češtiny z MSC: https://www.nexusmods.com/mysummercar/mods/1384
 
 # Requirements
 Plugin využívá `BepInEx` verze `>5.x`, bez kterého to nebude fungovat!
@@ -16,7 +17,7 @@ Například: `G:\SteamLibrary\steamapps\common\My Winter Car`
 
 Nějak takto by měla vypadat tvoje struktura:
 ![alt text](doc/image.png)
-**(hra v momentální chvili nebude fungovat)**
+** Hra v momentální chvili nebude fungovat.** Je to způsobeno configem BepInEx v `MWC instalace/BepInEx/config/BepInEx.cfg` obsahuje defaultně nastavený `Type = Application`, ale správná hodnota pro MWC je `Type = MonoBehaviour` (tento konfig obsahuje čeština se správnou hodnotou)
 
 ### 2. Instalace `češtiny`
 1. Stáhni nejnovejší verzi z: https://github.com/MrZajic/MWC_cs-CZ/releases (MWC_cz-x.x.x-x.zip)
