@@ -14,7 +14,7 @@ Plugin využívá `BepInEx` verze `>5.x`, bez kterého to nebude fungovat!
 2. Rozbal `BepInEx_win_x64_5.4.23.4.zip` do složky s instalací MWC.
 Například: `G:\SteamLibrary\steamapps\common\My Winter Car`
 
-Nějak takto by měla vypadat vaše struktura:
+Nějak takto by měla vypadat tvoje struktura:
 ![alt text](doc/image.png)
 **(hra v momentální chvili nebude fungovat)**
 
