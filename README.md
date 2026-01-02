@@ -3,6 +3,7 @@
 ## Autoři a zdroje
 - Autor lokalizačního pluginu:  
   https://www.nexusmods.com/mywintercar/mods/197
+  
   https://github.com/potatosalad775/MWC_Localization_Core
   
 - Některé překlady vycházejí ze staré češtiny z MSC:  
