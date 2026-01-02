@@ -42,3 +42,10 @@ Nějak takto by měla vypadat tvoje struktura:
 ---
 
 ⚠️ **Dokonalé to není ❤️. Některé labely chybí a stejně tak se MWC bude aktualizovat.** ⚠️
+
+---
+### 🔄 Aktualizace `češtiny`
+1. Stáhni nejnovejší verzi z: https://github.com/MrZajic/MWC_cs-CZ/releases (soubor `MWC_cz-x.x.x-x.zip`)
+2. Otevři stažený ZIP a jeho obsah opět zkopíruj do hlavní složky hry (`.../common/My Winter Car`).
+3. **Potvrď přepsání souborů**. Pokud k přepsání nedojde, tak jsi to pravděpodobně rozbalil špatně.
+(je to stejné jako instalace)
