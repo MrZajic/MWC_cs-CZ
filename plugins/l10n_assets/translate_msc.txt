@@ -197,6 +197,49 @@ R +HIGH = ZPÁTEČKA+RYCHLE
 N = NEUTRÁL
 R = ZPÁTEČKA
 
+// Swearing
+"Satan..." = "Satane..."
+"God help me." = "Bože pomoz mi."
+"Oh pussy again..." = "Zase ta kunda..."
+"Satan again." = "Zase satan."
+"Not the satan." = "Nee satane."
+"Pussy." = "Kunda."
+"Go to pussy, satan." = "Jdi do prdele, satane."
+"Go to pussy, please." = "Jdi do prdele, prosím."
+"You dork of the pussy." = "Ty zkurvysynu!"
+"You, go home." = "Jdi domů."
+"Go to hell." = "Táhni do pekla."
+"Oh pussy!" = "Oh kunda!"
+"Oh satan!" = "Oh Satan!"
+"One spring of pussies!" = "Pramen kundiček"
+"What the hell!?" = "Krucifix!?"
+"Satan?" = "Satane?"
+"It is the spring of pussies for sure!" = "Je jak kunda!"
+"Oh hell, for real!" = "To je fakt!"
+"The pussy of all pussies!" = "Kunda všech kund!"
+"God of thunder!" = "Bůh hromu"
+"God help me already!" = "Bože už mi pomoz!"
+"You dick of a pussy." = "Ty jsi ale č*rak."
+"You truly are a wart of a dick." = "Ty jsi vážně debil."
+"I don't have energy to watch your face." = "Nemám na to náladu abych sledoval tvůj ksicht."
+"You dick of a pussy!" = "Jsi č*rak z kundy!"
+"Smell a shit!" = "Smrdíš jak hovno!"
+"Smell pussy!" = "Smrdíš kundo!"
+
+// Fleetari
+"Fleetari here! Your repair work is ready. Come here and get your stuff." = "Tady Fleetari! Vaše opravářské práce je připravená. Pojď sem a přines si věci."
+"It's Fleetari here! You moron, bring back my car or I make sure your shit bucket car does not see another day!" = "Tady Fleetari! Ty špíno, přivez mi auto, nebo se ujistím, že tvoje auto se nedožije dalšího dne!"
+"It is Fleetari here. Want to earn 10 bottles of booze? Dump some shit at the front of the Lindell inspection shop. That sucker deserves it." = "Tady Fleetari. Chceš si vydělat 10 lahví vodky? Vylíj nějake sračky na přední straně inspekčního obchodu v Lindellu. Ten dement si to zaslouži."
+"I can't believe it... You are rally winner. I must admit you have such big balls. I thought you were going to die, but you won!" = "Nemužu tomu uvěřit... Jste vítěz Rally. Musím přiznat, že maš ale velký koule. Myslel jsem, že zemřeš, ale vyhrál jsi!"
+
+"Hello! What is on your mind young man?" = "Dobrý den! Co máte na mysli mladý muži?"
+"That car of yours ruins my driveway." = "To tvoje auto mi blokuje přijezdovou cestu."
+"Why do you even come here if you don't have any money?" = "Proč sem vůbec jezdíš, když nemáš peníze?"
+"Come back when you have the money." = "Vrať se až budeš mít peníze."
+"You can take my Ferndale if you need to get back home." = "Můžete si půčit mí Ferndale, pokud se potřebujete vrátit domů."
+"What a great junk find! Thanks boy. Here is some money for it." = "To je ale hodně bordela! Díky chlapče. Zde jsou nějaké peníze za to."
+"Oh boy, I heard what you did! Here is a ten bottles of booze, you really deserve this!" = "Oh, chlapče, slyšel jsem co jsi udělal! Tady je deset lahví vodky, opravdu si to zasloužíš!"
+
 //Rally
 "Your car needs to be inspected and registered." = "Nejdřív si nech auto zkontrolovat a zaregistrovat."
 "Your car is missing required safety gear." = "Tvému autu chybí povinná bezpečnostní výbava."

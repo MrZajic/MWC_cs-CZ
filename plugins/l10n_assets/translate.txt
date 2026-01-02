@@ -542,6 +542,15 @@ COULD NOT CONNECT = NELZE SE PŘIPOJIT
 "Be good!" = "Měj se!"
 "There! Anything else, perhaps?" = "Tady! Ještě něco?"
 "Oh well.. Fuck you instead." = "No tak nic.. Tak se jdi bodnout."
+"It's almost so cold sometimes that you need to wear winter coverall inside as well! The heating costs so much." = "Někdy je tu skoro taková zima, že by člověk potřeboval zimní kombinézu i na doma! Topení je strašně drahé."
+"We had it so good here in Peräjärvi. The PSK is a useless shitty place! I think it ruined the good vibes we had." = "Měli jsme se tady v Peräjärvi tak fajn. To PSK je úplně zbytečná díra! Podle mě to zničilo tu pohodu, co jsme tu měli."
+"Well hello to you as well!" = "No, taky tě zdravím!"
+"Hello hello! You came to drink few beers? Or how is it hanging there?" = "Ahoj, ahoj! Přišel sis dát pár piv? Nebo jak se vede?"
+"Oh my god.. Adult man peeing all over the place. My store is not a toilet" = "Panebože.. Dospělej chlap a chčije všude kolem. Můj krám není záchod!"
+"Oh my god.. Adult man peeing all over the place. My store is not a toilet." = "Panebože.. Dospělej chlap a chčije všude kolem. Můj krám není záchod!"
+"No no no... Why are you peeing there? Adult man, you little punk!" = "Ne, ne, ne... Proč tam chčiješ? Dospělej chlap, ty malej spratku!"
+"Wha... I... Th... Piss... Yo... Damn punk peeing... Oh my god what is this, you get out of here now!" = "Co... Já... T... Chc... Ty... Zatracenej spratek chčije... Panebože, co to je, okamžitě odsud vypadni!"
+
 
 //// Uncle
 "It is way better food in this restaurant compared to the salted water I got used to eat. You gotta eat something, right." = "V téhle restauraci mají mnohem lepší jídlo než ta slaná voda, co jsem zvyklý pít. Člověk musí něco jíst, ne."
