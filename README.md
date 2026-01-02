@@ -38,3 +38,7 @@ Nějak takto by měla vypadat tvoje struktura:
 1. Stáhni nejnovejší verzi z: https://github.com/MrZajic/MWC_cs-CZ/releases (soubor `MWC_cz-x.x.x-x.zip`)
 2. Otevři stažený ZIP a jeho obsah opět zkopíruj do hlavní složky hry (`.../common/My Winter Car`).
 3. **Potvrď přepsání souborů**, pokud se systém zeptá.
+
+---
+
+⚠️ **Dokonalé to není ❤️. Některé labely chybí a stejně tak se MWC bude aktualizovat.** ⚠️
